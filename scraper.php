@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 function unhtmlentities($string)
 {
     // replace numeric entities
